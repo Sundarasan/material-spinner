@@ -1,0 +1,11 @@
+{
+  "name": "material-spinner",
+  "version": "0.0.1",
+  "main": [
+    "./dist/js/material-spinner.js",
+    "./dist/js/material.spinner.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  }
+}
