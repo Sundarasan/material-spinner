@@ -1,5 +1,5 @@
 {
-  "name": "material-spinner-bower",
+  "name": "material-spinner",
   "version": "0.0.2",
   "main": [
     "./dist/js/material-spinner.js",
