@@ -2,7 +2,7 @@
   "name": "material-spinner-bower",
   "version": "0.0.2",
   "main": [
-    "./dist/js/material-spinner.js",
+    "./dist/js/material.spinner.js",
     "./dist/js/material.spinner.min.js"
   ],
   "dependencies": {
