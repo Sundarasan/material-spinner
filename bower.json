@@ -6,6 +6,7 @@
     "./dist/js/material.spinner.min.js"
   ],
   "dependencies": {
-    "jquery": ">= 1.7.0"
+    "jquery": ">= 1.7.0",
+    "jquerykeyframes": "~0.0.9"
   }
 }
